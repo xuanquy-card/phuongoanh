@@ -162,7 +162,7 @@ html {
 .card__title--description p {
     position: relative;
     text-align: center;
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     font-weight: 400;
     color: var(--text-color);
     line-height: 1.8rem;
